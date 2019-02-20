@@ -16,7 +16,9 @@
 ## React
 - [Crash course](https://www.youtube.com/watch?v=sBws8MSXN7A)
 - [Redux Crash course with React](https://www.youtube.com/watch?v=93p3LxR9xfM)
-- [ES7 React/Redux/GraphQL/React-Native snippets Library](https://atom.io/packages/react-native-redux-snippets-es6-es7-atom)
+- ES7 React/Redux Snippets Library
+	- [Atom](https://atom.io/packages/react-native-redux-snippets-es6-es7-atom)
+	- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ## Node JS
 - [Crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
