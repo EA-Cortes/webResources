@@ -1,6 +1,7 @@
 # A compilation of useful web resources
 
 ## MERN Stack
+- [Lynda MERN Stack JS Dev Course](https://www.lynda.com/learning-paths/Web/become-a-mern-stack-javascript-developer)
 - Learn the MERN Stack playlist
 	- [Series Intro](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
 	- [Express API & MongoDB](https://www.youtube.com/watch?v=5yTazHkDR4o&t=5s&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE&index=3)
