@@ -20,6 +20,10 @@
 	- [Atom](https://atom.io/packages/react-native-redux-snippets-es6-es7-atom)
 	- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
+
 ## Node JS
 - [Crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 - [API Authentication with JWT](https://www.youtube.com/watch?v=7nafaH9SddU) 
+
+## Mobile Dev
+- [React Native](https://facebook.github.io/react-native/)
