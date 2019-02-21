@@ -12,6 +12,8 @@
 	- [Prepare & Deploy](https://www.youtube.com/watch?v=71wSzpLyW9k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE&index=8)
 - [REST API with Node, Mongo, & Express](https://www.youtube.com/watch?v=o3ka5fYysBM)
 
+## MongoDB
+-[MongoDB in 30 minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 
 ## React
 - [Crash course](https://www.youtube.com/watch?v=sBws8MSXN7A)
@@ -26,4 +28,6 @@
 - [API Authentication with JWT](https://www.youtube.com/watch?v=7nafaH9SddU) 
 
 ## Mobile Dev
-- [React Native](https://facebook.github.io/react-native/)
+- Cross Platform
+	- [React Native](https://facebook.github.io/react-native/)
+	- [Flutter](https://flutter.io/)
